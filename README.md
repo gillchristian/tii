@@ -11,6 +11,10 @@ Supported assertions:
 - Gratter
 - Smaller
 
+##installation
+
+`$ npm install tii`
+
 ##usage
 
 ```js
