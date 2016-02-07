@@ -1,5 +1,5 @@
-import T from './t';
-let myTests = new T();
+import Tii from './tii';
+let myTests = new Tii();
 
 
 // --- equal ---

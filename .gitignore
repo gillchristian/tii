@@ -1,3 +1,4 @@
 node_modules/*
 jsconfig.json
+src/index.js
 

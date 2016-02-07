@@ -2,7 +2,7 @@ import isEqual from 'lodash.isequal';
 /**
  * This is my take on assertion libraries with out proper knowledge of testing
  */
-export default class T {
+export default class Tii {
 	
 	/**
 	 * Constructor, does the necessary set up
@@ -215,5 +215,5 @@ Array.prototype.last = function() {
  * Add support for Commonjs modules
  */
 if (typeof module === "object" && module.exports ) {
-	module.exports = T;
+	module.exports = Tii;
 }

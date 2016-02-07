@@ -1,5 +1,5 @@
 {
-  "name": "t",
+  "name": "tii",
   "version": "0.1.0",
   "description": "small assertion library",
   "keywords": [
@@ -9,7 +9,7 @@
   "main": "lib/index.js",
   "scripts": {
     "compile": "webpack --colors --progress",
-    "prepublis": "npm run compile"
+    "prepublish": "npm run compile"
   },
   "author": "gillchristian <gillchristiang@gmail.com> (http://gillchristian.github.io)",
   "license": "MIT",
