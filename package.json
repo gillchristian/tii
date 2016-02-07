@@ -1,0 +1,29 @@
+{
+  "name": "t",
+  "version": "0.1.0",
+  "description": "small assertion library",
+  "keywords": [
+    "assertions",
+    "tests"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "compile": "webpack --colors --progress",
+    "prepublis": "npm run compile"
+  },
+  "author": "gillchristian <gillchristiang@gmail.com> (http://gillchristian.github.io)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash.isequal": "^4.0.0"
+  },
+  "repository" :{
+      "type" : "git",
+      "url" : "https://github.com/gillchristian/t.git"
+    }
+}
