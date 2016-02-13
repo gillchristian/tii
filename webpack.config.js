@@ -3,8 +3,8 @@ const path = require('path');
 
 module.exports = {
   entry: {
-    //tests: path.join(__dirname, 'src/index.js'),
-    index: path.join(__dirname, 'src/t.js')
+    //tests: path.join(__dirname, 'src/tests.js'),
+    index: path.join(__dirname, 'src/tii.js')
   },
   output: {
     path: 'lib',
