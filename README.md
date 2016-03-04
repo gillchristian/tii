@@ -1,4 +1,4 @@
-#Tii
+#Tii [![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Tii is an small assertion library and test runner.
 
